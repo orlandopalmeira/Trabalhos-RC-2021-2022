@@ -1,6 +1,6 @@
 <img src='https://i.postimg.cc/hjkbcqPN/EEUM-logo.png' width="30%"/>
 
-<h3 align="center">Licenciatura em Engenharia Informática <br> Trabalho prático de Redes de Computadores <br> 2021/2022 </h3>
+<h3 align="center">Licenciatura em Engenharia Informática <br> Trabalhos práticos de Redes de Computadores <br> 2021/2022 </h3>
 
 ---
 <h3 align="center"> Colaboradores &#129309 </h2>
